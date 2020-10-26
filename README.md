@@ -6,7 +6,7 @@ This repository is a forked repositiry from a team member of mine that encompase
 
 - Powerpoint presentation that summarizes the entire work
 - A python script for the EDA ( used Jupyter Notebook )
-- Another python script that has a model created for predicting the amount of NO3 in air at different Californian sites using Linear Regression, XGBoost, Decision Tree and Random Forest. Model evaluation is based on the least RMSE
+- Another python script that has a model created for predicting the amount of NO3 in air at different Californian sites using Linear Regression, XGBoost, Decision Tree and Random Forest. Model evaluation is based on the least SSE
 - Lastly a csv file is attached that predicts the total amount of NO3 at California sites.
 
 
